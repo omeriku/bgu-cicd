@@ -1,6 +1,6 @@
 # CI/CD Workshop - Pokedex 
 
-[![Build Status](https://travis-ci.com/ofirattia/cicd-bgu-session.svg?branch=master)](https://travis-ci.com/ofirattia/cicd-bgu-session)
+[![Build Status](https://travis-ci.com/ofirattia/bgu-session.svg?branch=master)](https://travis-ci.com/ofirattia/bgu-session)
 
 ## ACCESS TOKEN - TRAVIS
 Please make sure you are going to https://github.com/settings/tokens and create an ACCESS TOKEN for Travis, this token is being used for pushing and creating releases to your repoistory.
